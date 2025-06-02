@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+python-docx
+google-api-python-client
+google-auth
+google-auth-oauthlib
+scikit-learn
+pandas
